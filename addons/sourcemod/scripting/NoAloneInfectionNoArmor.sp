@@ -13,7 +13,7 @@ public Plugin myinfo =
 	name = "[ZR] No Alone Infection & No Armor",
 	author = "DSASDFGH, REZOR, Modified by. Someone, maxime1907",
 	description = "Control min number of players for infection and zm/human armor amount",
-	version = "1.3",
+	version = "1.3.1",
 	url = "https://gitlab.com/counterstrikeglobaloffensive/sm-plugins/noaloneinfectionnoarmor"
 }
 
